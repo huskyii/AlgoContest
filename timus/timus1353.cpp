@@ -4,7 +4,8 @@
 #include <algorithm>
 using namespace std;
 
-int dp[11][90];
+int dp[10][90];
+// dp[i][j]代表用i个数位和为j的方案数
 
 int main(void){
   std::ios_base::sync_with_stdio(false);
