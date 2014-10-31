@@ -1,4 +1,5 @@
 // g++ WA到死，MS C++ 一次AC
+// 可以用整数二分，出题人的意思应该是这样
 #include <cstdio>
 #include <iomanip>
 #include <cstring>
